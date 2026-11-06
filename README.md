@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/hero.svg" width="100%" alt="Harshit — Turning friction into software. Browser tools, backend systems, and useful experiments." />
+  <img src="assets/profile/hero.svg" width="100%" alt="Harshit — I have a small idea. Famous last words before a new repository." />
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
   <a href="https://www.linkedin.com/in/harshit995/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-ff8e9e?style=for-the-badge" /></a>
 </p>
 
-### A little about me
+### “This should take five minutes.”
 
-I'm Harshit, a developer in Bengaluru. I build small tools for everyday friction and explore the systems behind larger applications—from Chrome extensions and local file sharing to Java services and distributed workflows.
+Three repositories, twelve tabs, and a completely unrelated bug later…
 
-I like the part where an idea becomes something you can actually use.
+*The original task is still open.*
 
 ### ◈ Selected builds
 

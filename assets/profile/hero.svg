@@ -1,6 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Harshit. Turning friction into software.">
-<defs><linearGradient id="g"><stop stop-color="#59efdc"/><stop offset=".5" stop-color="#ad8bfa"/><stop offset="1" stop-color="#ff8e9e"/></linearGradient><radialGradient id="glow"><stop stop-color="#7960db" stop-opacity=".35"/><stop offset="1" stop-color="#101322" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#bec7ff" stroke-opacity=".055"/></pattern></defs>
-<rect width="1200" height="420" rx="24" fill="#101322"/><rect width="1200" height="420" rx="24" fill="url(#grid)"/><ellipse cx="975" cy="210" rx="360" ry="310" fill="url(#glow)"/>
-<rect x="40" y="40" width="4" height="340" rx="2" fill="url(#g)"/>
-<g font-family="Arial,Helvetica,sans-serif"><text x="76" y="83" font-size="15" letter-spacing="4" fill="#59efdc">IRIDESCENT995 / BUILDER'S NOTEBOOK</text><text x="72" y="182" font-weight="700" font-size="88" fill="#f4f3ff">Harshit<tspan fill="#59efdc">.</tspan></text><text x="76" y="235" font-size="32" fill="#d9d7ec">Turning friction into software.</text><text x="76" y="277" font-size="18" fill="#929bb8">Browser tools. Backend systems. Useful experiments.</text><rect x="76" y="320" width="218" height="35" rx="17" fill="#59efdc" fill-opacity=".1" stroke="#59efdc" stroke-opacity=".35"/><circle cx="96" cy="337" r="4" fill="#59efdc"/><text x="110" y="343" font-size="13" letter-spacing="1" fill="#59efdc">BENGALURU · INDIA</text></g>
-<g transform="translate(955 210)" fill="none" stroke="url(#g)"><ellipse rx="150" ry="56" stroke-width="2" transform="rotate(-35)"/><ellipse rx="150" ry="56" stroke-width="2" transform="rotate(35)"/><ellipse rx="150" ry="56" stroke-width="2" transform="rotate(90)"/><path d="M0-90 78-45V45L0 90-78 45V-45Z" stroke-width="3"/><path d="m0-90 0 180M-78-45 78 45M78-45-78 45" stroke-opacity=".45"/><circle r="18" fill="#101322" stroke-width="3"/></g><circle cx="1074" cy="127" r="6" fill="#59efdc"/><circle cx="836" cy="294" r="5" fill="#ff8e9e"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="250" viewBox="0 0 1500 500">
+<defs>
+<linearGradient id="ink" x2="1" y2="1"><stop stop-color="#72ffe0"/><stop offset=".5" stop-color="#a49aff"/><stop offset="1" stop-color="#ff8da9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7347e5" stop-opacity=".42"/><stop offset="1" stop-color="#10101d" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#b9b2ef" opacity=".13"/></pattern>
+</defs>
+<rect width="1500" height="500" rx="28" fill="#0e101b"/>
+<rect width="1500" height="500" rx="28" fill="url(#dots)"/>
+<ellipse cx="1160" cy="250" rx="420" ry="350" fill="url(#halo)"/>
+<path d="M0 475H1500" stroke="url(#ink)" stroke-width="3"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="80" y="105" fill="#7cefdc" font-size="18" letter-spacing="5">HELLO, INTERNET.</text>
+<text x="73" y="246" fill="#f6f4ff" font-size="124" font-weight="bold" letter-spacing="-6">Harshit<tspan fill="#7cefdc">.</tspan></text>
+<text x="80" y="312" fill="#d2cce4" font-size="32">I have a small idea.</text>
+<text x="80" y="357" fill="#9c94b8" font-size="25">Famous last words before a new repository.</text>
+<rect x="80" y="400" width="206" height="36" rx="18" fill="#7cefdc" fill-opacity=".08" stroke="#7cefdc" stroke-opacity=".3"/>
+<circle cx="100" cy="418" r="4" fill="#7cefdc"/><text x="114" y="423" fill="#7cefdc" font-size="13" letter-spacing="1.5">SIDE QUEST: ACTIVE</text>
+</g>
+<g transform="translate(1125 252) rotate(-12)">
+<ellipse rx="238" ry="78" fill="none" stroke="#b79aff" stroke-width="1.5" opacity=".6" transform="rotate(-28)"/>
+<ellipse rx="216" ry="100" fill="none" stroke="#7cefdc" stroke-width="1.5" opacity=".4" transform="rotate(40)"/>
+<rect x="-157" y="-120" width="314" height="240" rx="20" fill="#171a2e" stroke="#9682d2" stroke-width="2"/>
+<path d="M-157-73H157" stroke="#39354e"/>
+<circle cx="-130" cy="-96" r="5" fill="#ff8da9"/><circle cx="-111" cy="-96" r="5" fill="#f7cf76"/><circle cx="-92" cy="-96" r="5" fill="#7cefdc"/>
+<path d="m-65-22-38 34 38 34M65-22l38 34-38 34M20-35-20 63" fill="none" stroke="url(#ink)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-117" y="87" width="65" height="4" rx="2" fill="#7cefdc" opacity=".7"/><rect x="-42" y="87" width="95" height="4" rx="2" fill="#a49aff" opacity=".4"/>
+</g>
+<g font-family="monospace" font-weight="bold"><g transform="translate(1322 100) rotate(13)"><rect x="-43" y="-26" width="86" height="52" rx="12" fill="#7cefdc"/><text text-anchor="middle" y="8" font-size="25" fill="#101b23">~/</text></g><g transform="translate(924 382) rotate(9)"><rect x="-59" y="-25" width="118" height="50" rx="12" fill="#ff9bb5"/><text text-anchor="middle" y="7" font-size="20" fill="#281525">what if?</text></g></g>
+<g fill="#d6c5ff"><path d="m950 86 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/><path d="m1371 335 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/></g>
+</svg>
