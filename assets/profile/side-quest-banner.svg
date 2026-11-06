@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="250" viewBox="0 0 1500 500">
+<defs>
+<linearGradient id="ink" x2="1" y2="1"><stop stop-color="#72ffe0"/><stop offset=".5" stop-color="#a49aff"/><stop offset="1" stop-color="#ff8da9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7347e5" stop-opacity=".42"/><stop offset="1" stop-color="#10101d" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#b9b2ef" opacity=".13"/></pattern>
+</defs>
+<rect width="1500" height="500" rx="28" fill="#0e101b"/>
+<rect width="1500" height="500" rx="28" fill="url(#dots)"/>
+<ellipse cx="1160" cy="250" rx="420" ry="350" fill="url(#halo)"/>
+<path d="M0 475H1500" stroke="url(#ink)" stroke-width="3"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="80" y="105" fill="#7cefdc" font-size="18" letter-spacing="5">HELLO, INTERNET.</text>
+<text x="73" y="246" fill="#f6f4ff" font-size="124" font-weight="bold" letter-spacing="-6">Harshit<tspan fill="#7cefdc">.</tspan></text>
+<text x="80" y="312" fill="#d2cce4" font-size="32">I have a small idea.</text>
+<text x="80" y="357" fill="#9c94b8" font-size="25">Famous last words before a new repository.</text>
+<rect x="80" y="400" width="206" height="36" rx="18" fill="#7cefdc" fill-opacity=".08" stroke="#7cefdc" stroke-opacity=".3"/>
+<circle cx="100" cy="418" r="4" fill="#7cefdc"/><text x="114" y="423" fill="#7cefdc" font-size="13" letter-spacing="1.5">SIDE QUEST: ACTIVE</text>
+</g>
+<g transform="translate(1125 252) rotate(-12)">
+<ellipse rx="238" ry="78" fill="none" stroke="#b79aff" stroke-width="1.5" opacity=".6" transform="rotate(-28)"/>
+<ellipse rx="216" ry="100" fill="none" stroke="#7cefdc" stroke-width="1.5" opacity=".4" transform="rotate(40)"/>
+<rect x="-157" y="-120" width="314" height="240" rx="20" fill="#171a2e" stroke="#9682d2" stroke-width="2"/>
+<path d="M-157-73H157" stroke="#39354e"/>
+<circle cx="-130" cy="-96" r="5" fill="#ff8da9"/><circle cx="-111" cy="-96" r="5" fill="#f7cf76"/><circle cx="-92" cy="-96" r="5" fill="#7cefdc"/>
+<path d="m-65-22-38 34 38 34M65-22l38 34-38 34M20-35-20 63" fill="none" stroke="url(#ink)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-117" y="87" width="65" height="4" rx="2" fill="#7cefdc" opacity=".7"/><rect x="-42" y="87" width="95" height="4" rx="2" fill="#a49aff" opacity=".4"/>
+</g>
+<g font-family="monospace" font-weight="bold"><g transform="translate(1322 100) rotate(13)"><rect x="-43" y="-26" width="86" height="52" rx="12" fill="#7cefdc"/><text text-anchor="middle" y="8" font-size="25" fill="#101b23">~/</text></g><g transform="translate(924 382) rotate(9)"><rect x="-59" y="-25" width="118" height="50" rx="12" fill="#ff9bb5"/><text text-anchor="middle" y="7" font-size="20" fill="#281525">what if?</text></g></g>
+<g fill="#d6c5ff"><path d="m950 86 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/><path d="m1371 335 3 9 9 3-9 3-3 9-3-9-9-3 9-3Z"/></g>
+</svg>

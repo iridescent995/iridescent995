@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/hero.svg" width="100%" alt="Harshit — I have a small idea. Famous last words before a new repository." />
+  <img src="assets/profile/side-quest-banner.svg" width="100%" alt="Harshit — I have a small idea. Famous last words before a new repository." />
 </p>
 
 <p align="center">
